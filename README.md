@@ -18,7 +18,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software Foundation,
 Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
-More at:
+### Documentation
 * http://wiki.labomedia.org/index.php/WikikIRC
 * http://labomedia.org/
 * http://openatelier.labomedia.org/
@@ -30,6 +30,11 @@ The commercial use of this image is not free of charge. Modification of this ima
 
 ### Version Manjaro
 #### Installation
-fluidsynth soundfont-fluid
+* pacman -S blender
+* pacman -S fluidsynth
+* pacman -S soundfont-fluid
 
-Ma doc est à vérifier
+### Lancement de illusion
+Dans un terminal
+
+./illusion.sh
